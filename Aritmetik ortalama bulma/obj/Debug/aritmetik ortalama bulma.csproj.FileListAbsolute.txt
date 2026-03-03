@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\ders\aritmetik ortalama bulma\bin\Debug\aritmetik ortalama bulma.exe.config
+C:\Users\USER\Desktop\ders\aritmetik ortalama bulma\bin\Debug\aritmetik ortalama bulma.exe
+C:\Users\USER\Desktop\ders\aritmetik ortalama bulma\bin\Debug\aritmetik ortalama bulma.pdb
+C:\Users\USER\Desktop\ders\aritmetik ortalama bulma\obj\Debug\aritmetik ortalama bulma.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ders\aritmetik ortalama bulma\obj\Debug\aritmetik ortalama bulma.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ders\aritmetik ortalama bulma\obj\Debug\aritmetik ortalama bulma.exe
+C:\Users\USER\Desktop\ders\aritmetik ortalama bulma\obj\Debug\aritmetik ortalama bulma.pdb
